@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarcoMruz
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning JS frameworks and next step is going to be backend Nodejs
-- 💞️ I’m looking to collaborate on open source
+- 👀 I’m interested in web development & blockchain
+- 🌱 I’m currently working as frontend dev and also working as fullstack on my bachelor project
+- 💞️ I’m looking forward to contribute to open source projects
 - 📫 How to reach me @MruzMarco - Twitter or Marco Mruz on linkedin - come and say hi
 
 <!---
