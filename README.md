@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarcoMruz
-- 👀 I’m interested in web development & blockchain
-- 🌱 I’m currently working as frontend dev and also working as fullstack dev on @weeletio
+- 👀 I’m interested in web development & native mobile apps development
+- 🌱 I’m currently working as frontend dev @frinxio and also working as tech lead on @weeletio
 - 💞️ I’m looking forward to contribute to open source projects
 - 📫 How to reach me @MruzMarco - Twitter or Marco Mruz on linkedin - come and say hi
 
